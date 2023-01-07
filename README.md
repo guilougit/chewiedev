@@ -1,4 +1,4 @@
-<h2> Hi, I'm a student in a master's degree in Computer Development ! <img src="https://giphy.com/embed/bcKmIWkUMCjVm" width="50"></h2>
+<h2> Hi, I'm a student in a master's degree in Computer Development ! <img src"http://gifgifs.com/animations/animals/dogs/Dalmatian_runs.gif" width="50"></h2>
 <img align='right' src="https://giphy.com/embed/bcKmIWkUMCjVm" width="230">
 <p><em>Student at <a href="http://www.unb.br">University of Amiens</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Developer Consultant at <a href="https://www.thoughtworks.com">ThoughtWorks</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
