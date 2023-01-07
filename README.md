@@ -1,5 +1,4 @@
 <h2> Hi, I'm a student in a master's degree in Computer Development !
-<img align='right' src="https://giphy.com/embed/bcKmIWkUMCjVm" width="230">
 <p><em>Student at <a href="https://miage-amiens.fr/">University of Amiens</a>
 </br>Working at <a href="https://www.chu-amiens.fr/">CHU Amiens-Picardie</a>
 </em></p>
