@@ -10,7 +10,7 @@
 const french = {
   type : "man",
   code: [Javascript, PHP, HTML, CSS, Python, Java],
-  tools: [VueJS, Node, Docker],
+  tools: [ReactJS, NodeJS, Docker],
 ```
 
 <b>I love developing, problem solving, and helping</b>
